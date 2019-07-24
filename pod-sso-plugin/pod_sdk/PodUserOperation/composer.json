@@ -1,0 +1,7 @@
+{
+  "require": {
+    "justinrainbow/json-schema": "^5.2",
+    "guzzlehttp/guzzle": "^6.3",
+    "ext-openssl": "*"
+  }
+}

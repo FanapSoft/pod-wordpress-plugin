@@ -1,0 +1,20 @@
+.clear {
+  clear: both;
+}
+
+table td input[type="text"] {
+  max-width: 350px;
+  width: 100%;
+}
+
+.content {
+  width: 600px;
+  margin: 20px auto;
+}
+.content .submit {
+  width: 100%;
+  text-align: center;
+}
+.form-table th {
+  width: 250px;
+}
